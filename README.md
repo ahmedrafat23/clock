@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="ChatGPT Image Jul 27, 2025, 11_50_36 AM" src="https://github.com/user-attachments/assets/5cb7f6d5-21e4-4e35-a879-5bdddb05afa1" />
+
 # ⏰ Clock & Stopwatch App
 
 A simple and efficient terminal-based application written in C that allows users to:
